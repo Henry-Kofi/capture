@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Thu Sep 12 23:35:41 2024 as: nmap -A -T4 -o tcp_scan.txt http://10.10.146.202/
+Unable to split netmask from target expression: "http://10.10.146.202/"
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Thu Sep 12 23:35:41 2024 -- 0 IP addresses (0 hosts up) scanned in 0.72 seconds
