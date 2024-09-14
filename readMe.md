@@ -38,7 +38,9 @@ Now that I now how the source code looks like, I would write a python script to 
     ![first response](./pictures/1_response.png)
 
 - **now I will brute force with the usernames provided**:
-  - *Initial trial* ![script](./pictures/2_script.png)
+  - *Initial trial*
+
+    ![script](./pictures/2_script.png)
 
       From the code, I loaded the usernames in the form of an array and loop over it while making requests to the url and printing out the results.
       
