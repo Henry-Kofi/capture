@@ -3,7 +3,7 @@ from tqdm import tqdm
 import re
 from time import time
 
-url = "http://10.10.113.34/login"
+url = "http://10.10.*.*/login"
 session = requests.session()
 
 payload = {
